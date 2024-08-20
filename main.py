@@ -1,6 +1,7 @@
 import pygame
 from constants import *
 
+
 def main():
     (succs, fails) = pygame.init()
 
