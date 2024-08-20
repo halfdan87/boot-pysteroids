@@ -23,6 +23,8 @@ def main():
                 return
         window.fill(pygame.Color("black"))
 
+        player.update(dt)
+
         player.draw(window)
 
         pygame.display.flip()
