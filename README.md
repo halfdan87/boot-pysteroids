@@ -1,2 +1,2 @@
-** PySteroids
+# PySteroids
 Python asteroids game
